@@ -16,7 +16,7 @@ tables, and a form with proper labels.
 - `index.html` — the assignment page
 - `screenshot.png` — the page rendered in a browser
 - `validator.png` — proof the page passes the W3C HTML validator
-- 'pip.png' — Pip
+- `pip.png` — Pip
 
 ## Built with
 
